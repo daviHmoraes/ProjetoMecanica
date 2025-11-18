@@ -45,4 +45,5 @@ target/
 .DS_Store
 Thumbs.db
 
+# Credenciais Sensíveis
 config.properties
